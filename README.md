@@ -17,8 +17,8 @@
 ### Инструкция по запуску:
 1. **Клонирование репозитория**:
    ```
-   git clone <ссылка на репозиторий>
-   cd SmartCalc
+   git clone git@github.com:MininGiit/Calculator.git
+   cd Calculator
    ```
 
 2. **Сборка проекта**:
